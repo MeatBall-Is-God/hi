@@ -5,11 +5,6 @@
       "imageUrl": "/assets/img/geforcenow.webp",
       "url": "openAg('https://play.geforcenow.com')"
     },
-    {
-      "name": "Roblox",
-      "imageUrl": "/assets/img/roblox.webp",
-      "url": "rbx()"
-    }
   ],
   "Shooter Games": [
     {
